@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://noayisaep.kalista.io/sitemap.xml
